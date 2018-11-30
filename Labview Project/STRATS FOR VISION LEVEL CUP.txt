@@ -1,0 +1,11 @@
+84
+89
+97 real one
+
+detected edges near bottom top rim of cup
+
+strats:
+loook from bottom of cup work way up,
+increase thing to 10/15 (need to see what happens on emptyish cup
+
+201x381
