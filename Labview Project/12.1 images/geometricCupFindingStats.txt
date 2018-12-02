@@ -1,0 +1,6 @@
+4 (top off table)
+
+8(side off image)
+
+9(works if decrease edge threshold by one!)
+
